@@ -1,4 +1,7 @@
-the text was edited
+text edited
 
+nnn
 
-EDITED!!!
+DITED!!!
+
+newline )
